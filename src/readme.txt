@@ -1,6 +1,3 @@
-Meno: Patrik Hampel
-Názov projektu: Proj21-J2 Crimsonland
-
 Hra je 2D top down strielačka.
 Ovládanie:
 - pohyb: WSAD
